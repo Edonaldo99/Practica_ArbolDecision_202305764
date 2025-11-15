@@ -62,7 +62,7 @@ Primeros 10 ejemplos:\
 
 ### Tiempo total
 
-0.015671 segundos
+0.001450 segundos
 
 ## Evidencias
 
